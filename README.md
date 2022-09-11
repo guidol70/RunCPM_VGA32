@@ -31,3 +31,11 @@ https://forum.classic-computing.de/forum/index.php?thread/23452-runcpm-v5-1-ttgo
 <br/>
 CP/M Users and Programmers on Facebook<br/>
 https://www.facebook.com/groups/cpmusers/<br/>
+
+
+## GLTerm for VGA32
+A fork of the FabGL ANSI-Terminal with parts of the VGA32 RunCPM-port<br>
+useable as serial TTL-Terminal (GP(IO) 20&21) for the Picomite<br>
+(Raspberry Pi Pico with MMBASIC)<br>
+
+![GLTerm VGA32 BootScreen](https://github.com/guidol70/RunCPM_VGA32/raw/main/GLTerm_VGA32/GLTerm_Rev_GL22020911.jpg?raw=true)
