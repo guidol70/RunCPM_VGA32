@@ -1,9 +1,11 @@
 # RunCPM_VGA32
 A fork of RunCPM for the TTGO VGA32 v1.4
 
-![RunCPM_BootScreen](https://github.com/guidol70/RunCPM_VGA32/raw/main/pictures/RunCPM_VGA32_GL220711_2.jpg?raw=true)
+![RunCPM_BootScreen](https://github.com/guidol70/RunCPM_VGA32/raw/main/pictures/RunCPM_v6_0_VGA32_GL20221026.jpg?raw=true)
+![RunCPM_BootScreen](https://github.com/guidol70/RunCPM_VGA32/raw/main/pictures/RunCPM_v6_0_VGA32_Screen__GL20221026.jpg?raw=true)
 
 for getting RunCPM onto the TTGO VGA32 v1.4 via a precompiled binary see:<br/>
+(maybe that doesnt work for newer versions :( )<br/>
 https://lehwalder.wordpress.com/2021/04/28/getting-runcpm-v5-3-fast-onto-the-ttgo-vga32-v1-4/<br/>
 <br/>
 for compiling RunCPM for your TTGO VGA32 v1.4 yourself - having more options ;) - see:<br/>
