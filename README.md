@@ -6,6 +6,16 @@ A fork of RunCPM for the TTGO VGA32 v1.4 & Olimex ESP32-SBC FabGL
 for getting RunCPM onto the TTGO VGA32 v1.4 via a precompiled binary see:<br/>
 (maybe that doesnt work for newer versions :( )<br/>
 https://lehwalder.wordpress.com/2021/04/28/getting-runcpm-v5-3-fast-onto-the-ttgo-vga32-v1-4/<br/>
+
+
+or use esptools.py
+
+python3 /home/pi/esptool/esptool.py --chip esp32 --port /dev/ttyACM0 --baud 921600 --before default_reset <br/>
+--after hard_reset write_flash -z --flash_mode dio --flash_freq 80m --flash_size detect <br/>
+0xe000 ./boot_app0_0xe000.bin <br/>
+0x1000 ./bootloader_qio_80m_0x1000.bin <br/>
+0x10000 ./RunCPM_VGA32_v6_1_24072023_0x10000.bin <br/>
+0x8000 ./RunCPM_VGA32_v6_1_24072023_0x8000_0x8000.bin <br/>
 <br/>
 for compiling RunCPM for your TTGO VGA32 v1.4 yourself - having more options ;) - see:<br/>
 https://lehwalder.wordpress.com/2021/04/07/runcpm-on-the-lilygo-ttgo-vga32-v1-4/<br/>
