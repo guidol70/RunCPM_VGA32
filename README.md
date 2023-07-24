@@ -16,6 +16,7 @@ python3 /home/pi/esptool/esptool.py --chip esp32 --port /dev/ttyACM0 --baud 9216
 0x1000 ./bootloader_qio_80m_0x1000.bin <br/>
 0x10000 ./RunCPM_VGA32_v6_1_24072023_0x10000.bin <br/>
 0x8000 ./RunCPM_VGA32_v6_1_24072023_0x8000_0x8000.bin <br/>
+
 <br/>
 for compiling RunCPM for your TTGO VGA32 v1.4 yourself - having more options ;) - see:<br/>
 https://lehwalder.wordpress.com/2021/04/07/runcpm-on-the-lilygo-ttgo-vga32-v1-4/<br/>
