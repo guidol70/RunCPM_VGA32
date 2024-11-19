@@ -1,7 +1,7 @@
 # RunCPM_VGA32
 A fork of RunCPM for the TTGO VGA32 v1.4 & Olimex ESP32-SBC FabGL
 
-![RunCPM_BootScreen](https://github.com/guidol70/RunCPM_VGA32/raw/main/pictures/RunCPM_v6_7_VGA32_GL20241119.jpg?raw=true)
+![RunCPM_BootScreen](https://github.com/guidol70/RunCPM_VGA32/raw/main/pictures/RunCPM_v6_7_VGA32_GL2024119.jpg?raw=true)
 
 for getting RunCPM onto the TTGO VGA32 v1.4 via a precompiled binary see:<br/>
 (maybe that doesnt work for newer versions :( )<br/>
