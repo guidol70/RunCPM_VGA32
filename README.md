@@ -47,4 +47,4 @@ A fork of the FabGL ANSI-Terminal with parts of the VGA32 RunCPM-port<br>
 useable as serial TTL-Terminal (GP(IO) 20&21) for the Picomite<br>
 (Raspberry Pi Pico with MMBASIC)<br>
 
-![GLTerm VGA32 BootScreen](https://github.com/guidol70/RunCPM_VGA32/raw/main/GLTerm_VGA32/GLTerm_Rev_GL22020911.jpg?raw=true)
+![GLTerm VGA32 BootScreen](https://github.com/guidol70/RunCPM_VGA32/raw/main/GLTerm_VGA32/GLTerm_Rev_GL20250129.jpg?raw=true)
